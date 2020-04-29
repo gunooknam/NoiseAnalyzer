@@ -1,0 +1,7 @@
+debug
+release
+NoiseAnalyzer.pro.user
+.qmake*
+Makefile*
+str.bin
+out_*
