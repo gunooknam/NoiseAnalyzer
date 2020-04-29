@@ -42,6 +42,6 @@ Available when setting window size to 1.
 
 # Reference
 
-* Local histogram figrue
+* Local Variance histogram figure
   * <https://www.researchgate.net/figure/Noise-histogram-estimation_fig1_46137484> 
 
