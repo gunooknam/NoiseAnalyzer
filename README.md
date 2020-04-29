@@ -5,13 +5,13 @@ NoiseAnalyzer - Gaussian Noise Analyze ( support Hevc all-intra Compression Nois
 
 we can design following noise model.
 
-![image](./IMG/Noise.png)
+![image](./IMG/Noise.PNG)
 
 # Generate Gaussian Noise 
 
 define Noise Level and generate gaussian noise.
 
-![image](./img/NoiseLevel.Png)
+![image](./img/NoiseLevel.PNG)
 
 
 
@@ -23,16 +23,16 @@ Histogram is used as a way to analyze noise.
 
 Available when setting window size to 1. 
 
-![image](./img/Histogram.png)
+![image](./img/Histogram.PNG)
 
 ## Local Variance Histogram
 
 1. set window size ! 
 2. The local variance image is obtained as shown below. 
 
-![image](./img/LVH.png)
+![image](./img/LVH.PNG)
 
-![image](./img/LVH_hist.png)
+![image](./img/LVH_hist.PNG)
 
 # Demo
 
