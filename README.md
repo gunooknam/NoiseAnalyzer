@@ -5,7 +5,7 @@ NoiseAnalyzer - Gaussian Noise Analyze ( support Hevc all-intra Compression Nois
 
 we can design following noise model.
 
-![image](./IMG/Noise.PNG)
+![image](./img/Noise.PNG)
 
 # Generate Gaussian Noise 
 
